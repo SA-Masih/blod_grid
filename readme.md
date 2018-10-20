@@ -1,2 +1,2 @@
-# Diner_Shopping_List
-https://sa-masih.github.io/diner_shopping_list/
+# BLOG_GRID
+https://sa-masih.github.io/blod_grid/
